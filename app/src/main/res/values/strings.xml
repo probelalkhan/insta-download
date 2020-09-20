@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Insta Download</string>
+    <string name="instagram_link">Instagram Link</string>
+    <string name="paste_link">Paste Link</string>
+    <string name="download">Download</string>
+    <string name="permission_title">Oops! You\'ve denied the permission</string>
+    <string name="write_permission_request">I need storage permission, to save the media file to your storage.\nWithout the permission I cannot save your file.</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="share_app">Share this App</string>
+    <string name="share_message">Hey! I\'ve found this awesome app\nIt helps me to download Instagram photos directly to my device\nCheck it out here 👉 </string>
+    <string name="select_an_app">Select an app to share</string>
+</resources>
